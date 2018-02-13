@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+PDF version here. 
+
 Education
 ======
 * B.B.A in Accounting, Temple University, 2008
