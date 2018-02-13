@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="http://academicpages.github.io/files/cv2016Pennebacker.pdf">PDF version here.</a>
+<a href="http://dpennebacker.github.io/files/cv2016Pennebacker.pdf">PDF version here.</a>
 
 Education
 ======
