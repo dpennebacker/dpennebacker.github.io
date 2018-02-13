@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "Papers and Research"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Not quite there yet. Check out lehigh.dpsites.com in the meantime...'
