@@ -1,11 +1,12 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /guide/
+title: "Guide"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /guide.html
 ---
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given climbed or guided!</a></p>
 
 ## Locations of key files/directories
 
