@@ -1,6 +1,6 @@
 ---
 title: "Pellet Guy"
-excerpt: "Website Design:  1<br/><img src='/images/500x300.png'>"
+excerpt: "Website Design:  2012<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
