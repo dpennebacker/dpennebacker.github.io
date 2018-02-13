@@ -47,15 +47,35 @@ Professional experience
   * Instructed students in backcountry expedition leadership and survival skills. 
   * Taught climbing specific curriculum including multipitch climbing, anchors, self-rescue and mountaineering.
   
+* 2008 - 2009: Staff Accountant
+  * Gable, Peritz & Mishkin, LLP
+  * Staff accountant assisting partners and clients in financial planning, tax preparation and litigation, and auditing services.
   
-Skills
+  
+Grants
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Augmented Reality Geometry, Lehigh University, 2013 - 2014 
+  * “Developing a Mobile Game for Research and Practice in Teaching”
+  * Received $4,200 compensation to create an iPad game using Stencyl. 
+  * The game was programmed to be launched on an iOS device to educate special education students in concepts of geometry.
+ 
+* Project PEAK, Lehigh University 2014, 2015
+  * Received competitive $26,000 compensation to develop digital learning experience. 
+  * Participants progressed through SCORM learning experience controlled through Moodle LMS. 
+  * The purpose of PEAK is to develop and evaluate an online early intervention family education program. PEAK is designed to target the issues of young children (age 3-5) exhibiting early behavioral symptoms of attention-deficit/ hyperactivity disorder (ADHD) by teaching parents and caregivers behavior management strategies and supportive practices over the course of a ten-week program. 
+  * It is hoped that Project PEAK will lead to the development of a parent education program that is associated with more consistent use of effective behavioral strategies and enhanced parent engagement as well as greater accessibility to diverse families.
+  
+* Faculty Instructor Grant, Lehigh University 2017, 2018
+  * Received $3,000 compensation to develop digital learning experience through use of ARIS application.
+  * Programmed customized Augmented Reality and location based triggers to be used as a mobile version of Project PEAK.
+  
+* iBook development project for NSF ITEST grant, Lehigh University 2017
+  * Received $990 compensation to develop iBook for tree identification book. 
+  * Implemented in a high school biology program
+  
+* NSF Environmental Learning Initiative Website Design, Lehigh University, 2017, 2018
+  * Developed a new website for Lehigh Environmental Learning initiative. 
+  * Developed Drupal website utilizing Lehigh server and protocols. 
 
 Publications
 ======
