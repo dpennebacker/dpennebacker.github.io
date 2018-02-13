@@ -97,6 +97,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Certifications
 ======
-* Currently signed in to 43 different slack teams
+* Certified business, computers and information technology teacher (grades k- 12) in PA.
+* Member and Certified Rock Guide, American Mountain Guiding Association (AMGA).
+* Certified Wilderness First Responder Wilderness Medicine (SOLO). 
+* Member, International Society for Technology in Education (ISTE). Member, Association of Computing Machinery (ACM).
+* Member, Computer Science Teachers Associations (CSTA). 
+* Member, Access Fund.
+* Member, American Alpine Club.
