@@ -1,6 +1,6 @@
 ---
 title: "Baba Sports Camps"
-excerpt: "Website Design:  2016<br/><img src='/images/500x300.png'>"
+excerpt: "Website Design:  2016<br/><img src='/images/baba.png'>"
 collection: portfolio
 ---
 
