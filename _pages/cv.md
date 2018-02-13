@@ -15,7 +15,7 @@ Education
 * M.S. in Education, Gwynedd-Mercy University, 2012
 * Ph.D in Teaching Learning and Technology, Lehigh University, 2019 (expected)
 
-Work experience
+Professional experience
 ======
 * 2011 - Present: Business, Computers and IT Teacher
   * Perkiomen Valley High School
@@ -28,11 +28,25 @@ Work experience
   * Coached Middle School Boys Soccer. 
   * Conducted staff training in Google Applications, computer science, Learning Management Systems and outdoor rock climbing.
 
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2013 - Present: Lead Rock Climbing Guide
+  * Doylestown Rock Gym
+  * Acted as lead guide instructing staff and clients on various levels of rock climbing courses.
+  
+* 2013 - 2017: Online Lecturer
+  * Gwynedd-Mercy University
+  * Developed Courses 
+  * Online lecturer
+  
+* 2007 - 2013: Rock Climbing Guide
+  * Eastern Mountain Sports
+  * Instructed rock climbing courses from novice to expert climbers. 
+  * Managed groups up to 30 people on steep terrain adhering to industry standard safety practices.
+  
+* 2010: Mountain Guide 
+  * National Outdoor Leadership School
+  * Instructed students in backcountry expedition leadership and survival skills. 
+  * Taught climbing specific curriculum including multipitch climbing, anchors, self-rescue and mountaineering.
+  
   
 Skills
 ======
