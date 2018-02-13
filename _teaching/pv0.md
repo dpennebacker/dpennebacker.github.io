@@ -2,9 +2,9 @@
 title: "PV - APCS A"
 collection: teaching
 type: "High School"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/pv0
 venue: "Perkiomen Valley High School"
-date: 2011-01-31
+date: 2013-09-01
 location: "Collegeville, PA"
 ---
 
