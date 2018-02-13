@@ -1,20 +1,23 @@
 ---
-title: "Teaching experience 2"
+title: "Gwynedd-Mercy University"
 collection: teaching
-type: "Workshop"
+type: "Online Lecturer"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Gwynedd-Mercy University"
+date: 2014-01-01
+location: "Gwynedd, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Lectured the following courses.
 
-Heading 1
+EDU 508 Secondary School Methods and Materials *Designed
 ======
 
-Heading 2
+EDU 603 Capstone/Culminating Project
 ======
 
-Heading 3
+EDU 551 Computer Applications for Educators *Designed
+======
+
+EDU 510 Research Skills for Reflective Practitioners
 ======
