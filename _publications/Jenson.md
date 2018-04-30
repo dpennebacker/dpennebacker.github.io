@@ -1,6 +1,5 @@
 ---
 title: "Exploring Media Literacy and Computational Thinking: A Game Maker Curriculum Study
-
 "
 collection: publications
 permalink: /publication/Jenson
@@ -11,7 +10,7 @@ paperurl: '
 
 https://drive.google.com/open?id=1eDFuJ-mRTTByKf4Y2Pk9rNZ2F-RDO-Xw
 '
-citation: Jenson, J., & Droumeva, M. (2016). Exploring Media Literacy and Computational Thinking: A Game Maker Curriculum Study. Electronic Journal of e-Learning, 14(2), 111-121.
+citation: 'Jenson, J., & Droumeva, M. (2016). Exploring Media Literacy and Computational Thinking: A Game Maker Curriculum Study. Electronic Journal of e-Learning, 14(2), 111-121.'
 
 ---
 
