@@ -1,5 +1,5 @@
 ---
-title: "Identifying middle school students' challenges in computational thinking-based science learning.
+title: 'Identifying middle school students' challenges in computational thinking-based science learning.'
 collection: publications
 permalink: /publication/Basu
 excerpt: 'CT, MS science'
