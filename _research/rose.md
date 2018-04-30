@@ -1,9 +1,11 @@
-
 ---
-title: "Baba Sports Camps"
-excerpt: "Website Design:  2016<br/><img src='/images/baba.png' style='box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);'
->"
-collection: research
+title: "Papers and Research"
+collection: publications
+permalink: /publication/rose
+excerpt: 'Not quite there yet. Check out lehigh.dpsites.com in the meantime...'
+date: 2015-10-01
+venue: 'Journal 1'
+paperurl: 'http://www.lehigh.dpsites.com'
+citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
-
-Complete redesign of <a href="https://www.babasportscamp.com">Baba Sports Camp.</a> Registration system design and implementation of Formidable and Stripe. 
+I'll get this section up soon. For now, check out the old site: http://www.lehigh.dpsites.com
