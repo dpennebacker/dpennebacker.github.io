@@ -1,6 +1,6 @@
 ---
 title: "Papers and Research"
-collection: publications
+collection: research
 permalink: /publication/rose
 excerpt: 'Not quite there yet. Check out lehigh.dpsites.com in the meantime...'
 date: 2015-10-01
