@@ -1,16 +1,17 @@
 ---
-title: "Constructionism in practice Designing, thinking, and learning in a digital world.
+title: "Constructionism in practice: Designing, thinking, and learning in a digital world
 "
 collection: publications
-permalink: /publication/Ackerman
+permalink: /publication/sanford
 excerpt: 'CT, math, connection of STEM to CS'
 date: 2017-10-01
-venue: 'Book'
+venue: 'Contemporary Issues in Education Research'
 paperurl: '
-https://www.amazon.com/Constructionism-Practice-Designing-Thinking-Learning/dp/0805819851
+https://drive.google.com/file/d/1kpNFLVKmKy76dxUHb8FZMLWhDy-kEHV4/view?usp=sharing
 '
 citation: Ackerman, E. (1996). Constructionism in practice: Designing thinking and learning in a digital world.
 
+
 ---
 
-This is a book: I need to read it.
+More mathy, but makes the point that CT is connected to math and can stem from CS. 
