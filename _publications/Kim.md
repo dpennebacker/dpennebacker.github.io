@@ -1,6 +1,5 @@
 ---
 title: "Paper-and-Pencil Programming Strategy toward Computational Thinking for Non-Majors: Design Your Solution
-
 "
 collection: publications
 permalink: /publication/Kim
@@ -11,7 +10,7 @@ paperurl: '
 
 https://drive.google.com/open?id=133cLlsoPAEuXaHihf0CX0pNxkM-aIT1x
 '
-citation: Kim, B., Kim, T., & Kim, J. (2013). and-Pencil Programming Strategy toward Computational Thinking for Non-Majors: Design Your Solution. Journal of Educational Computing Research, 49(4), 437-459.
+citation: 'Kim, B., Kim, T., & Kim, J. (2013). and-Pencil Programming Strategy toward Computational Thinking for Non-Majors: Design Your Solution. Journal of Educational Computing Research, 49(4), 437-459.'
 
 
 ---
