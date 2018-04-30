@@ -2,7 +2,7 @@
 title: "Constructionism in practice: Designing, thinking, and learning in a digital world.
 "
 collection: publications
-permalink: /publication/sanford
+permalink: /publication/Ackerman
 excerpt: 'CT, math, connection of STEM to CS'
 date: 2017-10-01
 venue: 'Contemporary Issues in Education Research'
