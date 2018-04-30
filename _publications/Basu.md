@@ -1,5 +1,5 @@
 ---
-title: 'Identifying middle school students' challenges in computational thinking-based science learning.'
+title: "Identifying middle school students' challenges in computational thinking-based science learning."
 collection: publications
 permalink: /publication/Basu
 excerpt: 'CT, MS science'
@@ -8,7 +8,6 @@ venue: '
 Research & Practice in Technology Enhanced Learning
 '
 paperurl: '
-
 https://drive.google.com/open?id=1MwL59CUOH-EQLrT35RQ4fIfiNJu2b9zh
 '
 citation: 'Basu, S., Biswas, G., Sengupta, P., Dickes, A., Kinnebrew, J. S., & Clark, D. (2016). Identifying middle school students’ challenges in computational thinking-based science learning. Research and Practice in Technology Enhanced Learning, 11(1), 13.'
