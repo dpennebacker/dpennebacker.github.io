@@ -1,8 +1,5 @@
 ---
-title: "Computational thinking in compulsory education:
-Towards an agenda for research and practice
-
-
+title: "Computational thinking in compulsory education: Towards an agenda for research and practice
 "
 collection: publications
 permalink: /publication/Voogt
@@ -13,7 +10,7 @@ paperurl: '
 
 https://drive.google.com/open?id=1BB6XxT3n-aprzyYAXkMCKaOjfz-mz_0l
 '
-citation: Voogt, J., Fisser, P., Good, J., Mishra, P., & Yadav, A. (2015). Computational thinking in compulsory education: Towards an agenda for research and practice. Education and Information Technologies, 20(4), 715-728.
+citation: 'Voogt, J., Fisser, P., Good, J., Mishra, P., & Yadav, A. (2015). Computational thinking in compulsory education: Towards an agenda for research and practice. Education and Information Technologies, 20(4), 715-728.'
 
 ---
 
