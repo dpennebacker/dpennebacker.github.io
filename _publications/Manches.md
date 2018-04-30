@@ -5,11 +5,8 @@ permalink: /publication/Manches
 excerpt: 'CT'
 date: 2017-10-01
 venue: 'British Journal of Educational Technology'
-paperurl: '
-https://drive.google.com/open?id=1Ywb8OHr-VF2PKJN79CeLEs10FNtQ9qPp
-'
+paperurl: 'https://drive.google.com/open?id=1Ywb8OHr-VF2PKJN79CeLEs10FNtQ9qPp'
 citation: 'Manches, A., & Plowman, L. (2017). Computing education in children's early years: A call for debate. British Journal of Educational Technology, 48(1), 191-201.'
-
 
 ---
 
