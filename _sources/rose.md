@@ -1,8 +1,7 @@
 
 ---
 title: "An Exploration of the Role of Visual Programming Tools in the Development of Young Children's Computational Thinking"
-excerpt: "CT"<br/>;
-
+excerpt: "CT"
 collection: sources
 ---
 
