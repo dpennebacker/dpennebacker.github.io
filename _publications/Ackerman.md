@@ -1,5 +1,5 @@
 ---
-title: "Constructionism in practice: Designing, thinking, and learning in a digital world
+title: "Mathematical Modeling and Computational Thinking
 "
 collection: publications
 permalink: /publication/sanford
@@ -9,8 +9,7 @@ venue: 'Contemporary Issues in Education Research'
 paperurl: '
 https://drive.google.com/file/d/1kpNFLVKmKy76dxUHb8FZMLWhDy-kEHV4/view?usp=sharing
 '
-citation: Ackerman, E. (1996). Constructionism in practice: Designing thinking and learning in a digital world.
-
+citation: Sanford, J. F., & Naidu, J. T. (2017). Mathematical Modeling and Computational Thinking. Contemporary Issues in Education Research, 10(2), 159-168.
 
 ---
 
