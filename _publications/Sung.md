@@ -1,9 +1,5 @@
 ---
-title: "Introducing Computational Thinking to Young
-Learners: Practicing Computational Perspectives
-Through Embodiment in Mathematics Education
-
-"
+title: "Introducing Computational Thinking to YoungbLearners: Practicing Computational Perspectives Through Embodiment in Mathematics Education"
 collection: publications
 permalink: /publication/Sung
 excerpt: 'CT, early elementary'
@@ -15,7 +11,7 @@ paperurl: '
 
 https://drive.google.com/open?id=16cSeH9-arcAZYieU42kLi5nOcm6PvxC6
 '
-citation: Sung, W., Ahn, J., & Black, J. B. (2017). Introducing Computational Thinking to Young Learners: Practicing Computational Perspectives Through Embodiment in Mathematics Education. Technology, Knowledge and Learning, 22(3), 443-463.
+citation: 'Sung, W., Ahn, J., & Black, J. B. (2017). Introducing Computational Thinking to Young Learners: Practicing Computational Perspectives Through Embodiment in Mathematics Education. Technology, Knowledge and Learning, 22(3), 443-463.'
 
 ---
 
