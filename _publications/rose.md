@@ -3,7 +3,7 @@ title: "An Exploration of the Role of Visual Programming Tools in the Developmen
 "
 collection: publications
 permalink: /publication/rose
-excerpt: 'CT'
+excerpt: 'CT, elementary'
 date: 2017-10-01
 venue: 'Electronic Journal of e-Learning'
 paperurl: '
