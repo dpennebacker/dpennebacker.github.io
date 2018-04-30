@@ -4,10 +4,12 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-Test2
+Test3
+
+{% include base_path %}
 
 {% for post in site.sources reversed %}
-  {% include archive-single-research.html %}
+  {% include archive-single.html %}
 {% endfor %}
 
 
