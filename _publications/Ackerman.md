@@ -1,5 +1,5 @@
 ---
-title: "Mathematical Modeling and Computational Thinking
+title: "Constructionism in practice: Designing, thinking, and learning in a digital world.
 "
 collection: publications
 permalink: /publication/sanford
