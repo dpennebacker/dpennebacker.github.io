@@ -4,9 +4,7 @@ collection: publications
 permalink: /publication/Manches
 excerpt: 'CT'
 date: 2017-10-01
-venue: '
-British Journal of Educational Technology
-'
+venue: 'British Journal of Educational Technology'
 paperurl: '
 https://drive.google.com/open?id=1Ywb8OHr-VF2PKJN79CeLEs10FNtQ9qPp
 '
