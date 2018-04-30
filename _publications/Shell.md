@@ -1,7 +1,5 @@
 ---
-title: "Profiles of Motivated Self-Regulation in College Computer Science Courses: Differences in Major versus Required Non-Major Courses
-
-"
+title: "Profiles of Motivated Self-Regulation in College Computer Science Courses: Differences in Major versus Required Non-Major Courses"
 collection: publications
 permalink: /publication/Shell
 excerpt: 'CT, classification of students'
@@ -13,7 +11,7 @@ paperurl: '
 
 https://drive.google.com/open?id=1SXybZ1nkZr3law33Gi4lAzPS0ERH8IHB
 '
-citation: Shell, D. F., & Soh, L. K. (2013). Profiles of motivated self-regulation in college computer science courses: Differences in major versus required non-major courses. Journal of Science Education and Technology, 22(6), 899-913.
+citation: 'Shell, D. F., & Soh, L. K. (2013). Profiles of motivated self-regulation in college computer science courses: Differences in major versus required non-major courses. Journal of Science Education and Technology, 22(6), 899-913.'
 
 
 ---
