@@ -1,8 +1,7 @@
-
 ---
-title: "An Exploration of the Role of Visual Programming Tools in the Development of Young Children's Computational Thinking"
-excerpt: "CT"
-collection: sources
+title: "Environmental Learning Initiative"
+excerpt: "Website Design:  2017(in production)<br/><img src='/images/500x300.png'>"
+collection: portfolio
 ---
 
-Complete redesign of <a href="https://www.babasportscamp.com">Baba Sports Camp.</a> Registration system design and implementation of Formidable and Stripe. 
+Complete design and implementation of <a href="http://www.el.lehigh.edu">ELI</a> Drupal based. Design was to accomodate research project sponsored by NSF
