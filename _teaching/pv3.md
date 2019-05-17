@@ -32,3 +32,5 @@ Web Design introduces you to the latest web site design tools on the market. Lea
 
 2013-2014
 ======
+
+<h3><a href="https://dpennebacker.github.io/teaching/webdesign/topics">Topics</a></h3>
