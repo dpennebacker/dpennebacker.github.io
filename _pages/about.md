@@ -24,7 +24,7 @@ This year we'll be doing things a bit different. Unfortately I can't make the sc
 
 ***PLEASE NOTE THAT VIDEOS WILL BE AVAILABLE SHORTLY. PLEASE ENJOY THIS PLACEHOLDER VIDEO!***
 
-<iframe width="280" height="165" src="https://www.youtube.com/embed/JR2eOB_WRbY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/31Kx_xNhn4Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <h2>Zoom Link</h2>
