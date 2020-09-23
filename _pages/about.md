@@ -19,4 +19,36 @@ Looking for talks? Check out the <a href="https://dpennebacker.github.io/talks/"
 
 Meet The Teacher Night - 2020/2021
 ======
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JR2eOB_WRbY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This year we'll be doing things a bit different. Unfortately I can't make the schedule night in person/digitally. In an effort to inform parents and provide an "in-person" night, I've created videos for each of my 4 courses this year. On 9/30 at 7pm, please use my zoom invitation below my videos to join. It will be an open time for parents to come in and "meet" me in person and ask specific questions about the courses. Thank you!
+
+<div style="width: 280; float: left;"><iframe width="280" height="165" src="https://www.youtube.com/embed/JR2eOB_WRbY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><div style="width: 280; float: left;"><iframe width="280" height="165" src="https://www.youtube.com/embed/JR2eOB_WRbY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
+<h2>Zoom Link</h2>
+======
+Daniel Pennebacker is inviting you to a scheduled Zoom meeting.
+
+Topic: Mr. Pennebacker - Meet the Teacher Night 2020
+Time: Sep 30, 2020 07:00 PM Eastern Time (US and Canada)
+
+Join Zoom Meeting
+https://pvsd-org.zoom.us/j/97385752153
+
+Meeting ID: 973 8575 2153
+Passcode: 679011
+One tap mobile
++19292056099,,97385752153# US (New York)
++13017158592,,97385752153# US (Germantown)
+
+Dial by your location
+        +1 929 205 6099 US (New York)
+        +1 301 715 8592 US (Germantown)
+        +1 312 626 6799 US (Chicago)
+        +1 669 900 6833 US (San Jose)
+        +1 253 215 8782 US (Tacoma)
+        +1 346 248 7799 US (Houston)
+Meeting ID: 973 8575 2153
+Find your local number: https://pvsd-org.zoom.us/u/aeisJabAa4
+
+
