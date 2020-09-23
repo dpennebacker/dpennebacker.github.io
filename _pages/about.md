@@ -22,7 +22,7 @@ Meet The Teacher Night - 2020/2021
 
 This year we'll be doing things a bit different. Unfortately I can't make the schedule night in person/digitally. In an effort to inform parents and provide an "in-person" night, I've created videos for each of my 4 courses this year. On 9/30 at 7pm, please use my zoom invitation below my videos to join. It will be an open time for parents to come in and "meet" me in person and ask specific questions about the courses. Thank you!
 
-<div style="width: 280; float: left;"><iframe width="280" height="165" src="https://www.youtube.com/embed/JR2eOB_WRbY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><div style="width: 280; float: left;"><iframe width="280" height="165" src="https://www.youtube.com/embed/JR2eOB_WRbY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe width="280" height="165" src="https://www.youtube.com/embed/JR2eOB_WRbY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <h2>Zoom Link</h2>
@@ -33,7 +33,7 @@ Topic: Mr. Pennebacker - Meet the Teacher Night 2020
 Time: Sep 30, 2020 07:00 PM Eastern Time (US and Canada)
 
 Join Zoom Meeting
-https://pvsd-org.zoom.us/j/97385752153
+<a href="https://pvsd-org.zoom.us/j/97385752153">https://pvsd-org.zoom.us/j/97385752153</a>
 
 Meeting ID: 973 8575 2153
 Passcode: 679011
@@ -49,6 +49,6 @@ Dial by your location
         +1 253 215 8782 US (Tacoma)
         +1 346 248 7799 US (Houston)
 Meeting ID: 973 8575 2153
-Find your local number: https://pvsd-org.zoom.us/u/aeisJabAa4
+Find your local number: <a href="https://pvsd-org.zoom.us/u/aeisJabAa4">https://pvsd-org.zoom.us/u/aeisJabAa4</a>
 
 
