@@ -20,7 +20,7 @@ Looking for talks? Check out the <a href="https://dpennebacker.github.io/talks/"
 Meet The Teacher Night - 2020/2021
 ======
 
-This year we'll be doing things a bit different. Unfortately I can't make the schedule night in person/digitally. In an effort to inform parents and provide an "in-person" night, I've created videos for each of my 4 courses this year. On 9/30 at 7pm, please use my zoom invitation below my videos to join. It will be an open time for parents to come in and "meet" me in person and ask specific questions about the courses. Thank you!
+This year we'll be doing things a bit different. Unfortately I can't make the schedule night in person/digitally. In an effort to inform parents and provide an "in-person" night, I've created videos for each of my 4 courses this year. Those videos are all listed below and have one for each class I teach. On 9/30 at 7pm, please use my zoom invitation that was sent to you to join the session. It will be an open time for parents to come in and "meet" me in person and ask additional questions about the courses. Thank you!
 <hr/>
 
 <h2>AP Computer Science Principles (Period 1 and 7/8)</h2>
