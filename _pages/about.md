@@ -24,8 +24,25 @@ This year we'll be doing things a bit different. Unfortately I can't make the sc
 
 ***PLEASE NOTE THAT VIDEOS WILL BE AVAILABLE SHORTLY. PLEASE ENJOY THIS PLACEHOLDER VIDEO!***
 
+<h2>AP Computer Science Principles (Period 1 and 7/8)</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/31Kx_xNhn4Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr/>
+<hr/>
 
+<h2>AP Computer Science Principles (Period 1 and 7/8)</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/31Kx_xNhn4Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr/>
+<hr/>
+
+<h2>AP Computer Science Principles (Period 1 and 7/8)</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/31Kx_xNhn4Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr/>
+<hr/>
+
+<h2>AP Computer Science Principles (Period 1 and 7/8)</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/31Kx_xNhn4Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr/>
+<hr/>
 
 <h2>Zoom Info</h2>
 
