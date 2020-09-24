@@ -38,8 +38,7 @@ This year we'll be doing things a bit different. Unfortately I can't make the sc
 <hr/>
 
 <h2>Web Design (Period 10 Fall Semester)</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/31Kx_xNhn4Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<hr/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sqS65R7kTIA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><hr/>
 <hr/>
 
 <h2>Zoom Info</h2>
