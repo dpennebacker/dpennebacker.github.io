@@ -21,25 +21,23 @@ Meet The Teacher Night - 2020/2021
 ======
 
 This year we'll be doing things a bit different. Unfortately I can't make the schedule night in person/digitally. In an effort to inform parents and provide an "in-person" night, I've created videos for each of my 4 courses this year. On 9/30 at 7pm, please use my zoom invitation below my videos to join. It will be an open time for parents to come in and "meet" me in person and ask specific questions about the courses. Thank you!
-
-***PLEASE NOTE THAT VIDEOS WILL BE AVAILABLE SHORTLY. PLEASE ENJOY THIS PLACEHOLDER VIDEO!***
-
-<h2>AP Computer Science Principles (Period 1 and 7/8)</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/31Kx_xNhn4Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<hr/>
 <hr/>
 
 <h2>AP Computer Science Principles (Period 1 and 7/8)</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/31Kx_xNhn4Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LplSIPi4G3Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr/>
 <hr/>
 
-<h2>AP Computer Science Principles (Period 1 and 7/8)</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/31Kx_xNhn4Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h2>AP Computer Science A (Period 2 and 9)</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I0pj4zUCuDs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><hr/>
+<hr/>
+
+<h2>App Design (Period 4/5)</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zwkhGfYCjMA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr/>
 <hr/>
 
-<h2>AP Computer Science Principles (Period 1 and 7/8)</h2>
+<h2>Web Design (Period 10 Fall Semester)</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/31Kx_xNhn4Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr/>
 <hr/>
